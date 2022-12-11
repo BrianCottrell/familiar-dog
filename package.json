@@ -9,7 +9,7 @@
   "author": "Brian Cottrell",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "http": "0.0.0",
     "node-resemble-js": "^0.2.0",
     "resemblejs": "^3.2.3"
